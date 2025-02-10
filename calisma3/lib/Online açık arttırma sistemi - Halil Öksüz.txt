@@ -1,0 +1,38 @@
+Kullanıcı parola giriş çıkış doğrulaması olacak 
+Girildikten sonra anasayfa da özel bir kategoriye ait açık arttırmaya alınacak ürünler instagram gönderileri gibi karşımıza çıkacak. 
+Bu ürünlerin her birinin ne zaman yapılacağına dair tarihi olacak. 
+Bu ürünleri aynı zamanda instagramda ki gibi her kullanıcı beğenip yorum yapabilecek. 
+Bu anlattıklarım anasayfa idi küçük bir bölüm de de şuanda açık arttırmada olan ürünler olacak. 
+Açık arttırmada olan ürünler gibi bir label button olacak ve tıklayıp gireceğiz. 
+Ürünler yine aynı şekilde instagram gönderileri gibi listelenecek ve birine bastığımız zaman açık arttırmaya girebileceğiz. 
+Girdiğimiz zaman sayı yazma yeri olacak en son ki değer olacak countdowntimer progress bar vs olacak. 
+En son kimde kaldıysa açık arttırma o kullanıcının idsi TC kimlik numarası adresi otomatik olarak sisteme düşmüş olacak. 
+Kayıt ekranı olacak ve kayıt ekranında TC kimlik numarasını girmesi vs kişinin zorunludur. 
+
+Halil Öksüz 214410015 
+
+
+
+
+
+
+
+1-	Radio button kullan ( cinsiyet seçimi yaparken)
+2-	Textformfield oluştur ve en az şu kadar karater olsun (kullanıcı kayıt giriş)
+    	Borderı yuvarlatılmış kenar olsun ve prefix ve diğer icon olsun 
+3-  Dropdown buton oluştur. (Şehir seçimi)
+4-  popup menu button oluştur (profil kısmını koyarsın ve aktif açık arttırmaları koyarsın)
+5-	Arka plan rengini değiştir
+3-	Checkbox grubu oluştur.
+4-	Floating action button oluştur 
+7- Yan tarafta açılır menü oluştur(İçine music anahtarı koyabilirsin ve gece modu)
+
+
+
+Yarın yapılacaklar 
+1- Sayfa 5'i bitir ve veritabanını hallet kullanıcı adı parola giriş sistemi 
+2- Ondan sonra icon buton oluştur anasayfaya 
+3- İcon butonda galeriden fotoğraf seçilebilsin ve submite basınca anasayfaya fotoğraf bir kart içerisine eklesin. 
+4- Kartlara tıklanınca açık arttırma sayfası gelsin ve büyük bir yazı yazma yeri olsun ürünün altında 
+5- countdowntimer olsun ve her açık arttırmanın 1 gün süresi olsun yüklendikten sonra diyelim. 
+6- En son ki teklif veren kullanıcının süre bitince kazanan olduğu yazılsın ve kullanıcıya bildirim gitsin istersen 

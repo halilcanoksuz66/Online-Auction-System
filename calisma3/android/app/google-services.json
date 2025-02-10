@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88145088404",
+    "project_id": "online-auction-system-2e40c",
+    "storage_bucket": "online-auction-system-2e40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88145088404:android:4a86b4d66870ff925e4981",
+        "android_client_info": {
+          "package_name": "com.example.calisma3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuSrrxhZLHGnIe1URd8GnbvtaJ6eV8KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

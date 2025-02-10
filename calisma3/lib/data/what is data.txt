@@ -1,0 +1,5 @@
+Bu katman veri yönetimi ile ilgilidir. 
+Veri modelleri
+Veri kaynakları (API, Veri tabanı)
+Repositoryler 
+bu katmanda yer alır
