@@ -16,7 +16,7 @@ Bu sayede, her kullanıcı güncel teklifleri **anlık olarak** görebilir.
 
 ## 📷 Ekran Görüntüleri  
 
-| <img src="./screenshots/Resim1.jpg" width="250"/> | <img src="./screenshots/Resim2.jpg" width="250"/> | <img src="./screenshots/Resim3.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim1.jpg" width="250"/> | <img src="./screenshots/Resim2.jpg" width="250"/> | <img src="./screenshots/Resim3.jpg" width="250"/> |  
 |---|---|---|  
 | <img src="./screenshots/Resim4.jpg" width="250"/> | <img src="./screenshots/Resim5.jpg" width="250"/> | <img src="./screenshots/Resim6.jpg" width="250"/> |  
 | <img src="./screenshots/Resim7.jpg" width="250"/> | <img src="./screenshots/Resim8.jpg" width="250"/> | <img src="./screenshots/Resim9.jpg" width="250"/> |  
