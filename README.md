@@ -16,13 +16,13 @@ Bu sayede, her kullanıcı güncel teklifleri **anlık olarak** görebilir.
 
 ## 📷 Ekran Görüntüleri  
 
-| <img src="./calisma3/screenshots/Resim1.jpg" width="250"/> | <img src="./screenshots/Resim2.jpg" width="250"/> | <img src="./screenshots/Resim3.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim1.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim2.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim3.jpg" width="250"/> |  
 |---|---|---|  
-| <img src="./screenshots/Resim4.jpg" width="250"/> | <img src="./screenshots/Resim5.jpg" width="250"/> | <img src="./screenshots/Resim6.jpg" width="250"/> |  
-| <img src="./screenshots/Resim7.jpg" width="250"/> | <img src="./screenshots/Resim8.jpg" width="250"/> | <img src="./screenshots/Resim9.jpg" width="250"/> |  
-| <img src="./screenshots/Resim10.jpg" width="250"/> | <img src="./screenshots/Resim11.jpg" width="250"/> | <img src="./screenshots/Resim12.jpg" width="250"/> |  
-| <img src="./screenshots/Resim13.jpg" width="250"/> | <img src="./screenshots/Resim14.jpg" width="250"/> | <img src="./screenshots/Resim15.jpg" width="250"/> |  
-| <img src="./screenshots/Resim16.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim4.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim5.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim6.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim7.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim8.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim9.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim10.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim11.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim12.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim13.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim14.jpg" width="250"/> | <img src="./calisma3/screenshots/Resim15.jpg" width="250"/> |  
+| <img src="./calisma3/screenshots/Resim16.jpg" width="250"/> |  
 
 
 
