@@ -63,6 +63,7 @@ Bu projede şunlar yapıldı:
 - [x] Firebase entegrasyonu yapıldı
 - [ ] Dark mode eklenecek (Yakında!)
 
-## 📩 İletişim
-Bana ulaşmak için: [LinkedIn](https://linkedin.com/in/kullaniciadi)  
+**📩 İletişim**
+
+Eğer herhangi bir sorunuz veya geri bildiriminiz varsa, benimle iletişime geçmekten çekinmeyin!
 
