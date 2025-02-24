@@ -33,8 +33,8 @@ Bu sayede, her kullanıcı güncel teklifleri **anlık olarak** görebilir.
 
 1. **Projeyi klonla**  
    ```sh
-   git clone https://github.com/kullaniciadi/projeadi.git
-   cd projeadi
+   git clone https://github.com/halilcanoksuz66/Online-Auction-System.git
+   cd Online-Auction-System
    ```
 
 2. **Gerekli paketleri yükle**  
